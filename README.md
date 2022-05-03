@@ -1,2 +1,2 @@
-# motonitor-scrapper
-This is a webscrapper we developed to extract data from "mundimoto" in order to have a dataset that allow us to train a model and predict the possible sell price o a motorcycle. 
+# motonitor-deep-scrapper
+this repo is just a script to scrap the wabpage from mundimoto.com, the main script is in scrapper.py. you can execute it with python3 an it will generate a new csv file.
